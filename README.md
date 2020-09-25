@@ -1,8 +1,8 @@
-<h1>Hi, I’m Kobar Septyanus 👋 </h1>
+# Hi, I’m Kobar Septyanus 👋 
 
-<h4>I'm an Indonesian, currently working as Software Engineer and Academic Instructor, focusing on Frontend and machine learning stuffs and on journey to bring the best of both to users.</h4>
+I'm an Indonesian, currently working as Software Engineer and Academic Instructor, focusing on Frontend and machine learning stuffs and on journey to bring the best of both to users.
 
-<h4>Things I'm working with</h4>
+### Things I'm working with
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
