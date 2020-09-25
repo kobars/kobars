@@ -29,3 +29,7 @@ I'm an Indonesian, currently working as Software Engineer and Academic Instructo
   <img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services%20-%23FA7343?&&style=for-the-badge&logo=amazon&logoColor=white" />
 <p/>
 
+### Find me on
+<p><a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
