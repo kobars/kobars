@@ -23,11 +23,9 @@ I'm an Indonesian, currently working as a **Software Engineer** and **Academic I
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="Tensorflow" src="https://img.shields.io/badge/tensorflow%20-%23FA7343?&&style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-<p>
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services%20-%23FA7343?&&style=for-the-badge&logo=amazon&logoColor=white" />
-<p/>
+</p>
 
 ### Find me on
 <p><a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
