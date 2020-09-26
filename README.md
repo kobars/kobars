@@ -1,5 +1,7 @@
-# Hi, I’m Kobar Septyanus 👋 
 ![](https://komarev.com/ghpvc/?username=kobars)
+
+# Hi, I’m Kobar Septyanus 👋 
+
 
 I'm an Indonesian, currently working as a **Software Engineer** and **Academic Instructor**, focusing on **Frontend** and **Machine Learning** stuffs and on a journey to bring the best of both to users.
 
